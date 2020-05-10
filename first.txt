@@ -1,5 +1,5 @@
 This is first file in new smart git gui
-
+This new is updated file in master
 updating in progress
 
 text update
