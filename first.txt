@@ -5,3 +5,5 @@ This is updated file in dev branch
 updating in progress
 
 text update
+
+This update is to check stash command 
